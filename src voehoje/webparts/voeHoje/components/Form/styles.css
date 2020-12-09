@@ -1,0 +1,12 @@
+.default-button{
+    margin-top: 30px;
+    width: 50%;
+    background: rgb(23, 167, 4);
+}
+.default-button:hover{
+    background-color: green;
+}
+.image{
+    margin: 10px auto 20px;
+    display: block;    
+}
